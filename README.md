@@ -22,8 +22,7 @@ SO THAT I can keep a list of books to purchase
 GitHub Profile https://github.com/rioobod
 
 ## Link to deployed page
-
-## Screenshot
+https://lit-bastion-05222.herokuapp.com/
 
 ## License [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
